@@ -46,9 +46,9 @@ Revenue distribution.
 
 Relationship between budget and rating.
 
-📊 Key Findings:
-Identified top-performing movies by rating and revenue.
+# 📊 Key Findings:
+**Identified top-performing movies by rating and revenue.**
 
-Found trends between budget and movie success.
+**Found trends between budget and movie success.**
 
-Highlighted the most frequent movie genres.
+**Highlighted the most frequent movie genres.**
