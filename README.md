@@ -1,13 +1,14 @@
 # product-manager-
 ![product-manager](https://github.com/muhamedhateem/product-manager-/blob/53c23ad728804969bf5047cac621d2d0feb2e66e/7-Steps-to-Data-Warehouse-Testing-3-1024x768.png)
-✅ Task 2 – Data Analysis with Python and Pandas
-Goal:
-Perform data analysis on a movies dataset using Python libraries like pandas, matplotlib, and seaborn.
 
-📌 Steps Performed:
-Data Loading:
+# ✅ Task 2 – Data Analysis with Python and Pandas
+**Goal:
+Perform data analysis on a movies dataset using Python libraries like pandas, matplotlib, and seaborn.**
 
-The dataset was loaded using pandas.read_csv().
+# 📌 Steps Performed:
+### Data Loading:
+
+**The dataset was loaded using pandas.read_csv().**
 
 Initial Exploration:
 
