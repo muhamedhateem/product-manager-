@@ -10,25 +10,25 @@ Perform data analysis on a movies dataset using Python libraries like pandas, ma
 
 **The dataset was loaded using pandas.read_csv().**
 
-Initial Exploration:
+### Initial Exploration:
 
-Displayed the first and last few rows using head() and tail().
+**Displayed the first and last few rows using head() and tail().**
 
 Checked the dataset shape and number of columns.
 
-Data Cleaning:
+### Data Cleaning:
 
-Dropped unnecessary columns using drop().
+**Dropped unnecessary columns using drop().**
 
-Handled missing values using dropna() or fillna().
+ **Handled missing values using dropna() or fillna().** 
 
-Descriptive Analysis:
+### Descriptive Analysis:
 
-Used describe() to view statistical summaries.
+**Used describe() to view statistical summaries.**
 
-Extracted insights such as:
+### Extracted insights such as:
 
-Top-rated movies.
+**Top-rated movies.**
 
 Highest grossing movies.
 
